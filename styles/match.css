@@ -23,7 +23,7 @@ main .banner-container {
     margin-top: 5%;
     margin-right: 5%;
     margin-left: 5%;
-    background-color: #5B02DE;
+    background-color: #028ade;
     border-radius: 20px;
     display: flex;
     height: 100%;
@@ -53,7 +53,7 @@ main .flex-container {
 .banner-info a {
     text-decoration: none;
     color: white;
-    background-color: #FF30A1;
+    background-color: #30b0ff;
     padding: 2% 5%;
     border-radius: 5px;
     font-size: .7em;
@@ -64,7 +64,7 @@ main .flex-container {
     padding: 2% 7%;
     border-radius: 5px;
     font-size: .9em;
-    background-color: rgb(1, 1, 54);
+    background-color: rgb(1, 25, 54);
 }
 
 .banner-info i {
@@ -89,7 +89,7 @@ main .flex-container {
 
 
 section .navbar {
-    background-color: #5B02DE;
+    background-color: #025ade;
     display: flex;
     flex-direction: column;
     width: 200px;
@@ -121,7 +121,7 @@ section .navbar {
     color: white;
     font-size: .8em;
     font-weight: lighter;
-    background-color: #FF30A1;
+    background-color: #30eeff;
     margin-bottom: 10%;
     padding: 5% 10%;
     border-radius: 5px;
@@ -177,7 +177,7 @@ section .navbar {
 /* footer part style */
 
 footer {
-    background-color: #5B02DE;
+    background-color: #0269de;
     text-align: center;
     height: 15rem;
 
